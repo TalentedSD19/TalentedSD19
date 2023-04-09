@@ -1,4 +1,5 @@
-![logo](https://github.com/TalentedSD19/TalentedSD19/blob/master/Blue%20Modern%20Technology%20Intro%20YouTube%20Video%20%20(1).mp4)
+![](https://github.com/TalentedSD19/TalentedSD19/blob/master/Banner.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Soumyajit Datta</h1>
 <h3 align="center">A passionate frontend developer and Robotics enthusiast from India</h3>
