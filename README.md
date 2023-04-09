@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/soumyajitdatta19/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/642/372/png-transparent-link-in-logo-linkedin-logo-linkedin-icons-no-attribution-miscellaneous-blue-angle.png" alt="soumyajit datta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soumyajitdatta19/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="soumyajit datta" height="30" width="40" /></a>
 <a href="https://instagram.com/astronaut._on_road" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="astronaut._on_road" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@soumyajitdatta19" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/05/22/11/38/yt-6273367_1280.png" alt="soumyajit datta" height="30" width="40" /></a>
 </p>
