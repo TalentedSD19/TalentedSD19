@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **talentedsd19@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://linktr.ee/soumyajitdatta](https://linktr.ee/soumyajitdatta)
+
 - ☕ Fun fact **I love Coffee**
 
 <h3 align="left">Connect with me:</h3>
