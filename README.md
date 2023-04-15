@@ -9,7 +9,7 @@
 <div align="center">Visitor Count<br>
 
   <img src="https://profile-counter.glitch.me/TalentedSD19/count.svg" />
-<br>
+<br><br>
 </div>
 
   
