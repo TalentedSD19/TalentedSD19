@@ -3,12 +3,12 @@
 
 <h1 align="center">Hi 👋, I'm Soumyajit Datta</h1>
 <h3 align="center">A passionate frontend developer and Robotics enthusiast from India</h3>
-Visitor Counter<br>
+
 
 
 <p align="center"> 
 
-  Visitor count<br>
+  Visitor Count<br>
 
   <img src="https://profile-counter.glitch.me/TalentedSD19/count.svg" />
 
