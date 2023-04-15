@@ -45,3 +45,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talentedsd19&show_icons=true&locale=en" alt="talentedsd19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talentedsd19&" alt="talentedsd19" /></p>
+
+<p align="center" width="100%">
+  <img src="https://t3.ftcdn.net/jpg/03/17/02/66/360_F_317026621_gxBKhW9g1aUgU0kMO5q2ROmfzDmN6zvd.jpg"/>
+</p>
+
