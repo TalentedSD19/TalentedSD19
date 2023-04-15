@@ -46,7 +46,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talentedsd19&" alt="talentedsd19" /></p>
 
-<p align="center" width="100%">
-  <img src="https://t3.ftcdn.net/jpg/03/17/02/66/360_F_317026621_gxBKhW9g1aUgU0kMO5q2ROmfzDmN6zvd.jpg"/>
-</p>
+
+<div align="center" width="100%">
+  <br>
+<samp>
+    <i>Thanks for visiting my profile.<br>Do leave a star⭐️</i> 
+  </samp>
+  
+</div>
+
 
