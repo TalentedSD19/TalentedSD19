@@ -18,9 +18,9 @@
 
 
 
-- 🤖 I’m currently working on **Forest Watch AI**
+- 🤖 I’m currently working on **SightX**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Arduino**
 
