@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Soumyajit Datta</h1>
-<h3 align="center">A passionate frontend developer and Robotics enthusiast from India</h3>
+<h3 align="center">A passionate ML engineer and Robotics enthusiast from India</h3>
 
 
 
