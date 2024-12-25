@@ -1,11 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)]()
 <h1 align="center">Hey there, I'm Soumyajit Datta</h1>
 <h3 align="center">A passionate AI Engineer and Robotics Enthusiast</h3>
-<div align="center">Visitor Count<br>
+<!-- <div align="center">Visitor Count<br>
 
   <img src="https://profile-counter.glitch.me/TalentedSD19/count.svg" />
 <br><br>
-</div>
+</div> -->
 
   
 
