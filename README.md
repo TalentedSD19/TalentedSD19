@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)]()
-![image](https://github.com/user-attachments/assets/a57e9848-ac04-4365-bc70-c9b1d687fab2)
+
 
 <h1 align="center">Hi 👋, I'm Soumyajit Datta</h1>
 <h3 align="center">A passionate AI Engineer and Robotics enthusiast from India</h3>
