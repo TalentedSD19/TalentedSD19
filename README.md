@@ -1,4 +1,4 @@
-![MasterHead]([https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIyMDYyMzAsIm5iZiI6MTczMjIwNTkzMCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTIxVDE2MTg1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc5YzI1MDk3ZDY5Njk0OWJiNTJkYTVhNTY0YTM3MDM0NGY2NTdhZTM1MDAzNjUxNDI2OTIwNWZhMGNiY2I1ZTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6mGlX-NrT8Posa7GIxcNZvFvAlqKY3DB9-cW7TaUoEk](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif))
+[![MasterHead](https://wallpaperaccess.com/full/4910984.gif](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)]()
 
 
 <h1 align="center">Hi 👋, I'm Soumyajit Datta</h1>
