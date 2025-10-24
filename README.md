@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **talentedsd19@gmail.com**
 
-- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1fn0ywcdYzY_-yY5uxW8PSTBsR0yZ6dUZ/view)
+- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1YCmj0Bh6phixj_8qV8oKFBNUSnOwGdpx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
