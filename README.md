@@ -67,8 +67,3 @@ Achievements:  ....... Pair Extraordinaire x2, Pull Shark x2, YOLO
 </tr>
 </table>
 
-
-
-⭐️ If you find any of my repos useful, consider leaving a star!
-
-</div>
