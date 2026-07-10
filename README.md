@@ -1,6 +1,8 @@
+
+
 <table>
 <tr>
-<td valign="top" width="69%">
+<td valign="top" width="46%">
 
 ```
                                                              
@@ -34,35 +36,38 @@
 ```
 
 </td>
-<td valign="top" width="31%">
+<td valign="top" width="54%">
 
-```
-soumyajit datta
-----------------------------------------
-OS:  ........................ Windows, Ubuntu (Linux)
-Uptime:  .................... 22 years, 5 months (AI/ML since Oct 2022)
-Host:  ....................... Heritage Institute of Technology / IIT Madras
-Kernel:  ..................... Agentic AI & RAG Pipelines Operator
-IDE:  ........................ VS Code, Jupyter Notebook, Google Colab
+```ansi
+[1m[37msoumyajit@datta[0m
+[37m----------------------------------------[0m
+[36mOS:[0m  [37m........................[0m [33mWindows, Ubuntu (Linux)[0m
+[36mUptime:[0m  [37m....................[0m [33m3 years, 9 months (AI/ML since Oct 2022)[0m
+[36mHost:[0m  [37m......................[0m [33mHeritage Institute of Technology / IIT Madras[0m
+[36mKernel:[0m  [37m....................[0m [33mAgentic AI & RAG Pipelines Operator[0m
+[36mIDE:[0m  [37m.......................[0m [33mVS Code, Jupyter Notebook, Google Colab[0m
 
-Languages.Programming:  ..... Python, Java, JavaScript, SQL
-Languages.Real:  ............ English (Professional), Bengali (Native)
+[36mLanguages.Programming:[0m  [37m.....[0m [33mPython, Java, JavaScript, SQL[0m
+[36mLanguages.Real:[0m  [37m.............[0m [33mEnglish (Professional), Bengali (Native)[0m
 
-Hobbies.Software:  .......... Gen AI experimentation
-Hobbies.Hardware:  .......... Robotics, Sensors
+[36mHobbies.Software:[0m  [37m...........[0m [33mGen AI experimentation[0m
+[36mHobbies.Hardware:[0m  [37m...........[0m [33mRobotics, Sensors[0m
 
-- Contact -------------------------------
-Email:  ...................... dattasoumyajit19@gmail.com
-LinkedIn:  ................... soumyajitdatta19 (2000+ followers)
-GitHub:  ...................... TalentedSD19
+[37m- Contact -------------------------------[0m
+[36mEmail:[0m  [37m......................[0m [33mdattasoumyajit19@gmail.com[0m
+[36mLinkedIn:[0m  [37m...................[0m [33msoumyajitdatta19 (2,067 followers)[0m
+[36mGitHub:[0m  [37m.....................[0m [33mTalentedSD19[0m
 
-- GitHub Stats --------------------------
-Public Repos:  ................ 32
-Followers:  ................... 11  |  Following:  8
-Achievements:  ....... 2x Hackathon winner
+[37m- GitHub Stats --------------------------[0m
+[36mPublic Repos:[0m  [37m..............[0m [33m32[0m
+[36mFollowers:[0m  [37m...................[0m [33m11[0m  |  [36mFollowing:[0m [33m8[0m
+[36mAchievements:[0m  [37m.......[0m [33mPair Extraordinaire x2, Pull Shark x2, YOLO[0m
 ```
 
 </td>
 </tr>
 </table>
 
+⭐️ If you find any of my repos useful, consider leaving a star!
+
+</div>
