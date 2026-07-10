@@ -41,7 +41,7 @@
 soumyajit@datta
 ----------------------------------------
 OS:  ........................ Windows, Ubuntu (Linux)
-Uptime:  .................... 3 years, 9 months (AI/ML since Oct 2022)
+Uptime:  .................... 22 years, 5 months (AI/ML since Oct 2022)
 Host:  ....................... Heritage Institute of Technology / IIT Madras
 Kernel:  ..................... Agentic AI & RAG Pipelines Operator
 IDE:  ........................ VS Code, Jupyter Notebook, Google Colab
@@ -54,13 +54,13 @@ Hobbies.Hardware:  .......... Robotics, Sensors
 
 - Contact -------------------------------
 Email:  ...................... dattasoumyajit19@gmail.com
-LinkedIn:  ................... soumyajitdatta19 (2,067 followers)
+LinkedIn:  ................... soumyajitdatta19 (2000+ followers)
 GitHub:  ...................... TalentedSD19
 
 - GitHub Stats --------------------------
 Public Repos:  ................ 32
 Followers:  ................... 11  |  Following:  8
-Achievements:  ....... Pair Extraordinaire x2, Pull Shark x2, YOLO
+Achievements:  ....... 2x Hackathon winner
 ```
 
 </td>
