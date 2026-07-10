@@ -1,9 +1,3 @@
-<div align="center">
-
-# Soumyajit Datta / README.md
-
-</div>
-
 <table>
 <tr>
 <td valign="top" width="46%">
