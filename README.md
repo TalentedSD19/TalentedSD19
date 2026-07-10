@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="46%">
+<td valign="top" width="69%">
 
 ```
                                                              
@@ -34,7 +34,7 @@
 ```
 
 </td>
-<td valign="top" width="54%">
+<td valign="top" width="31%">
 
 ```
 soumyajit datta
