@@ -1,69 +1,50 @@
+```bash
+soumyajit@github:~$ git clone github.com/TalentedSD19/profile
+Cloning into 'profile'... done.
 
-<table>
-<tr>
-<td valign="top" width="46%">
+soumyajit@github:~$ cd profile
 
+soumyajit@github:~/profile$ git status
+
+On branch main
+✔ AI Engineer | LLM • RAG • Computer Vision
+
+soumyajit@github:~/profile$ git log --oneline -5
+
+e7a1b91  Published Springer research
+c52e81f  Research @ IIT Kharagpur
+b93dbe2  AI Engineer @ Cywreck
+7fd81b0  Won National Hackathon ×2
+0000001  Initial commit
+
+soumyajit@github:~/profile$ git config --list
+
+user.name=Soumyajit Datta
+role=AI Engineer
+location=Kolkata, India
+
+soumyajit@github:~/profile$ git tag
+
+Python  GenAI  LLM  RAG
+LangChain  FastAPI  PyTorch  AWS
+
+soumyajit@github:~/profile$ git diff --stat
+
+AI Engineering      | ████████████████████ 100%
+LLM Engineering     | ███████████████████░ 95%
+RAG Pipelines       | ██████████████████░░ 90%
+Computer Vision     | █████████████████░░░ 88%
+Backend APIs        | ████████████████░░░░ 82%
+Cloud & DevOps      | ██████████████░░░░░░ 75%
+
+soumyajit@github:~/profile$ git shortlog -sn
+
+2  Springer Publications
+2  National Hackathon Wins
+3  AI Internships
+32 Public Repositories
+
+soumyajit@github:~/profile$ git push origin future
+
+🚀 Building intelligent AI systems for real-world impact.
 ```
-                                                             
-                        ....:::......::--                    
-                    . ..    .......... ..:.                  
-                  .   ....  ... ..::.....:::                 
-                 .       ....... ..:..::::.:.:               
-                .    .:-======-::.:.....   ....              
-                ... :-==++++***+=-::::..... ...              
-               .  ..-===+++*******+=:.::...  ..              
-                  .:-==++********####*++--:...:              
-                  .---:...:=+********##**++: .               
-                  --:-----::--==+=::::---=+-..               
-                  :-----===--:=+==--=+++=-==..               
-               . :===----===-=**=+-=:.--===: .               
-               -.-=++++++++==+*#++*+===++++-.                
-               ---==+=+++===+*##*+*#**##***==                
-               ---===++**+=--==+**+*********                 
-                ---==++++==--=+++***##*****+                 
-                 --==========+***********++                  
-                  --======++++==:--+++**+=                   
-                  ----=====--=++***+++++=                    
-                   ::--====+++++++++====                     
-                   -:::--==++**+++=---+=                     
-                  .:-::::::::-------+*+:-                    
-                 . :---:::::::::-=++**=.-==                  
-               -:  :----::::--=+++****=.--==                 
-            -::::..:---------=+++****+:.---=:==              
-      --::::::::::.:----=====+++****+=:.----------==         
- =--:::::::::::::::-=====+++++++***+=-.::-----:::-::----     
-```
-
-</td>
-<td valign="top" width="54%">
-
-```
-soumyajit@datta
-----------------------------------------
-OS:  ........................ Windows, Ubuntu (Linux)
-Uptime:  .................... 22 years, 5 months (AI/ML since Oct 2022)
-Host:  ....................... Heritage Institute of Technology / IIT Madras
-Kernel:  ..................... Agentic AI & RAG Pipelines Operator
-IDE:  ........................ VS Code, Jupyter Notebook, Google Colab
-
-Languages.Programming:  ..... Python, Java, JavaScript, SQL
-Languages.Real:  ............ English (Professional), Bengali (Native)
-
-Hobbies.Software:  .......... Gen AI experimentation
-Hobbies.Hardware:  .......... Robotics, Sensors
-
-- Contact -------------------------------
-Email:  ...................... dattasoumyajit19@gmail.com
-LinkedIn:  ................... soumyajitdatta19 (2000+ followers)
-GitHub:  ...................... TalentedSD19
-
-- GitHub Stats --------------------------
-Public Repos:  ................ 32
-Followers:  ................... 11  |  Following:  8
-Achievements:  ....... 2x Hackathon winner
-```
-
-</td>
-</tr>
-</table>
-
