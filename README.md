@@ -42,7 +42,7 @@ soumyajit@github:~/profile$ git shortlog -sn
 2  Springer Publications
 2  National Hackathon Wins
 3  AI Internships
-32 Public Repositories
+44 Public Repositories
 
 soumyajit@github:~/profile$ git push origin future
 
